@@ -3,7 +3,6 @@
   padding: 20px;
   margin-inline: auto;
   margin-block: 20px;
-  background-color: var(--color-water);
 }
 
 .card--green {
@@ -16,4 +15,12 @@
 
 .card--yellow {
   background-color: lightyellow;
+}
+
+.card--blue {
+  background-color: lightblue;
+}
+
+.card--orange {
+  background-color: lightsalmon;
 }
